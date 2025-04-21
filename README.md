@@ -14,6 +14,6 @@
 
 <p align='center'>
 <picture>
-<img src="https://raw.githubusercontent.com/baoqianiii/baoqianiii/refs/heads/output/github-contribution-grid-snake.svg?token=GHSAT0AAAAAAC6WJW7ISONFEBU7HHDXLAGM2AGHOWA" />
+<img src="https://raw.githubusercontent.com/baoqianiii/baoqianiii/refs/heads/output/github-contribution-grid-snake.svg" />
 </picture>
 </p>
