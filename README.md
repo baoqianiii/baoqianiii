@@ -12,7 +12,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=baoqianiii&show_icons=true&count_private=true" />
 </picture>
 
-<!-- <picture>
+<picture>
 <img src="https://raw.githubusercontent.com/baoqianiii/baoqianiii/output/github-contribution-grid-snake.svg" />
 </picture>
-</p> -->
+</p>
